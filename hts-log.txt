@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Sep 2024 01:53:58 at https://maha-cv-resume-bootstrap.vercel.app/home-one.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maha-cv-resume-bootstrap.vercel.app/home-one.html -O1 "C:\dev\CV\CV\CV3.1\CV" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:54:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://maha-cv-resume-bootstrap.vercel.app/assets/css/colors/defauld.css
+01:54:44	Error: 	"Not Found" (404) at link https://maha-cv-resume-bootstrap.vercel.app/assets/plugins/css/owl.video.play.png (from https://maha-cv-resume-bootstrap.vercel.app/assets/plugins/css/owl.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 85 links scanned, 83 files written (4089731 bytes overall) [2550861 bytes received at 55453 bytes/sec], 2306186 bytes transferred using HTTP compression in 46 files, ratio 31%
+(1 errors, 1 warnings, 0 messages)
